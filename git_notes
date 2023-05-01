@@ -8,7 +8,7 @@ git <verb> --help
 # Getting a git repository
 
 1. You can turn any of your local directory into git repository by running `git init` command under it.
-2. OR you can "clone" any repository available on code repository servers using `git clone` command.
+2. OR you can "clone" any repository available on code repository servers using `git clone` command..
 
 # Initializing a Repository in an Existing Directory
 
