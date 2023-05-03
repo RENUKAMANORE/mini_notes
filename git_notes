@@ -20,7 +20,7 @@ git init
   directory. You can run `ls -la` to see hidden directories in `git bash` tool.
 - `.git` directory contains all the information that is necessary for your project in version control and all the
   information about commits, remote repository address, etc. All of them are present in this folder. It also contains a
-  log that stores your commit history so that you can roll back to history.
+  log that stores your commit history so that you can roll back to history. git is open source.
 
 # Cloning an Existing Repository from github
 
